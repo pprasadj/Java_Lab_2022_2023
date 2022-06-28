@@ -14,5 +14,6 @@ public class Buf_read {
 
 		// Printing the read line
 		System.out.println(name);
+		System.out.println("hello");
 	}
 }
