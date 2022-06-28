@@ -15,5 +15,7 @@ class Scan_read {
 
 		float b = inp.nextFloat();
 		System.out.println("You entered float " + b);
+		System.out.println("Hello");
+		
 	}
 }
