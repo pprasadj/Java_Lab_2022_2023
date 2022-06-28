@@ -6,5 +6,6 @@ public class Con_read {
 		String input = System.console().readLine();
 
 		System.out.println("String entered is" + input);
+		System.out.println("h");
 	}
 }
